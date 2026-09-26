@@ -1,2 +1,4 @@
 # mp4dump
-Created with CodeSandbox
+
+dump mp4 box using wasm in Go 
+
